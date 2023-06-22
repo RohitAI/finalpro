@@ -1,10 +1,15 @@
 # finalpro
 This is my final project.
+
+
+I Had Created Blog Store to help, Since people have become busy in their lives ,they don't have much time to make note of new varieties in food items and also had dream of trying out restaurant style dishes. So I had created a Blog Store which Helps people to know about new Recipes with correct procedure and items required to achieve perfectly with in short span of time .
+
+
 # Azure link : https://gentle-bush-0b09a8810.3.azurestaticapps.net/
 
-#Video link  :
+#  Video link  :
 
-#Homepage of the Blog store site
+#                             Homepage of the Blog store site
 
 
 #1.![Screenshot (25)](https://github.com/RohitAI/finalpro/assets/55452659/111c9b88-d222-48d6-aaef-bcb8dae3aa65)
@@ -22,7 +27,7 @@ This is my final project.
 
 
    
-#About Page
+#                                         About Page
 
 
 #1.![Screenshot (32)](https://github.com/RohitAI/finalpro/assets/55452659/a01b86fa-9234-4c76-8ccb-19d5281ad9e1)
@@ -34,7 +39,7 @@ This is my final project.
 
 
 
-#Contact Page
+#                                           Contact Page
 
 
 #1.![Screenshot (35)](https://github.com/RohitAI/finalpro/assets/55452659/2868625d-e109-4850-a40c-749d82592f55)
@@ -45,12 +50,12 @@ This is my final project.
 
 
 
-#Chatbot
+#                                            Chatbot
 
 #![image](https://github.com/RohitAI/finalpro/assets/55452659/287e677b-3444-4046-b9b0-cd46f733285d)
 
 
-#MS AZURE page
+#                                        MS AZURE page
 
 
 ![Screenshot (39)](https://github.com/RohitAI/finalpro/assets/55452659/895a61f8-2f4c-47c5-9e68-8442c70e1f7b)
