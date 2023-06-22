@@ -3,6 +3,8 @@ This is my final project.
 # Azure link : https://gentle-bush-0b09a8810.3.azurestaticapps.net/
 
 #Homepage of the Blog store site
+
+
 #1.![Screenshot (25)](https://github.com/RohitAI/finalpro/assets/55452659/111c9b88-d222-48d6-aaef-bcb8dae3aa65)
 
 #2.![Screenshot (26)](https://github.com/RohitAI/finalpro/assets/55452659/968b1919-a15f-4e85-b657-33bf57354756)
@@ -19,6 +21,8 @@ This is my final project.
 
    
 #About Page
+
+
 #1.![Screenshot (32)](https://github.com/RohitAI/finalpro/assets/55452659/a01b86fa-9234-4c76-8ccb-19d5281ad9e1)
 
 #2.![Screenshot (33)](https://github.com/RohitAI/finalpro/assets/55452659/4f5f697c-a0c0-496a-920a-6d14d8f38647)
@@ -29,6 +33,8 @@ This is my final project.
 
 
 #Contact Page
+
+
 #1.![Screenshot (35)](https://github.com/RohitAI/finalpro/assets/55452659/2868625d-e109-4850-a40c-749d82592f55)
 
 #2.![Screenshot (36)](https://github.com/RohitAI/finalpro/assets/55452659/599cc706-6b0c-47c5-8ac2-1dc77f79b071)
@@ -38,4 +44,6 @@ This is my final project.
 
 
 #MS AZURE page
+
+
 ![Screenshot (39)](https://github.com/RohitAI/finalpro/assets/55452659/895a61f8-2f4c-47c5-9e68-8442c70e1f7b)
