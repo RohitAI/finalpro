@@ -25,7 +25,7 @@ I Had Created Blog Store to help, Since people have become busy in their lives ,
 
 # Azure link : https://gentle-bush-0b09a8810.3.azurestaticapps.net/
 
-#  Video link  :
+#  Video link  :https://youtu.be/FmiUUqHxNDk
 
 #                             Homepage of the Blog store site
 
