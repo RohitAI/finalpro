@@ -5,6 +5,24 @@ This is my final project.
 I Had Created Blog Store to help, Since people have become busy in their lives ,they don't have much time to make note of new varieties in food items and also had dream of trying out restaurant style dishes. So I had created a Blog Store which Helps people to know about new Recipes with correct procedure and items required to achieve perfectly with in short span of time .
 
 
+# AZURE TECHNOLOGIES USED:
+   1.STATIC WEB APP
+   2.HEALTH BOT
+
+
+
+# FEAUTURES AND FUNCTIONALITIES
+   .Recipe Collection
+   .Search and Filters
+   .Favorites and Saved Recipes
+   .Step-by-Step Instructions
+   .Ingredient Lists and Measurements
+   .Multimedia Content
+   .User Ratings and Reviews
+   .Sharing and Social Integration
+
+   
+
 # Azure link : https://gentle-bush-0b09a8810.3.azurestaticapps.net/
 
 #  Video link  :
